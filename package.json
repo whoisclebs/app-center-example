@@ -9,6 +9,9 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "appcenter": "4.4.5",
+    "appcenter-analytics": "4.4.5",
+    "appcenter-crashes": "4.4.5",
     "expo": "~48.0.10",
     "expo-splash-screen": "~0.18.1",
     "expo-status-bar": "~1.4.4",

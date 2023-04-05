@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "app-center-example",
+    "slug": "app-center-example",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "app-center-example"
+}
